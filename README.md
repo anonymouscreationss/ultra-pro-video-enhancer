@@ -191,7 +191,7 @@ project/
 | Bitrate    | ≥ 80 Mbps (8K@120fps)   |
 | Audio      | AAC 48kHz               |
 
-**Tags:** `#8K #120fps #AIEnhanced #Cartoon #MemeMagic`  
+**Tags:** `#8K #TeamAC #AnonymousCretions#120fps #AIEnhanced #Cartoon #MemeMagic`  
 **Title Example:** `"Your Video Title [8K 120fps AI Enhanced]"`
 
 ---
